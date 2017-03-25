@@ -1,0 +1,2 @@
+# sayisalanaliz
+Ödev
